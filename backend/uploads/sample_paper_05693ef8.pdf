@@ -1,0 +1,134 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >> endobj
+4 0 obj << /Length 1829 >>
+stream
+BT
+/F1 18 Tf
+50 740 Td
+(General theory of relativity revisited) Tj
+ET
+BT
+/F2 11 Tf
+50 685 Td
+(Authors: Rahul Sharma , Raghav) Tj
+ET
+BT
+/F2 10 Tf
+50 668 Td
+(Publication: National Peer-Reviewed Publication) Tj
+ET
+50 655 m 550 655 l S
+BT
+/F1 12 Tf
+50 635 Td
+(ABSTRACT) Tj
+ET
+BT
+/F2 10 Tf
+50 615 Td
+(Reanalysing the shortcomings of Einstein's general theory) Tj
+ET
+BT
+/F1 12 Tf
+50 590 Td
+(1. INTRODUCTION) Tj
+ET
+BT
+/F2 9.5 Tf
+50 572 Td
+(Modern cloud-native systems and transformer architectures require stringent verification,) Tj
+ET
+BT
+/F2 9.5 Tf
+50 558 Td
+(fault isolation, and reproducible evaluation benchmarks across national computational) Tj
+ET
+BT
+/F2 9.5 Tf
+50 544 Td
+(grids.) Tj
+ET
+BT
+/F1 12 Tf
+50 522 Td
+(2. SYSTEM ARCHITECTURE & METHODOLOGY) Tj
+ET
+BT
+/F2 9.5 Tf
+50 504 Td
+(Our empirical evaluation framework deploys automated telemetry probes, tracking) Tj
+ET
+BT
+/F2 9.5 Tf
+50 490 Td
+(p99 request latencies, gradient throughput, and memory pressure during high concurrency) Tj
+ET
+BT
+/F2 9.5 Tf
+50 476 Td
+(stress testing.) Tj
+ET
+BT
+/F1 12 Tf
+50 454 Td
+(3. EXPERIMENTAL RESULTS) Tj
+ET
+BT
+/F2 9.5 Tf
+50 436 Td
+(Across 10,000 synthetic request iterations, our method demonstrated superior stability,) Tj
+ET
+BT
+/F2 9.5 Tf
+50 422 Td
+(achieving an overall 43 percent decrease in tail latency and 94 percent model fidelity) Tj
+ET
+BT
+/F2 9.5 Tf
+50 408 Td
+(on benchmark datasets.) Tj
+ET
+BT
+/F1 12 Tf
+50 386 Td
+(4. CONCLUSION & FUTURE WORK) Tj
+ET
+BT
+/F2 9.5 Tf
+50 368 Td
+(We established an open-source baseline for researchers across national academic) Tj
+ET
+BT
+/F2 9.5 Tf
+50 354 Td
+(institutions. Future extensions will incorporate federated edge telemetry and multi-modal) Tj
+ET
+BT
+/F2 9.5 Tf
+50 340 Td
+(distillation.) Tj
+ET
+BT
+/F2 8 Tf
+50 40 Td
+(SETU - National Academic & Research Digital Union Repository - Govt. of India) Tj
+ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+6 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002132 00000 n 
+0000002207 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+2277
+%%EOF

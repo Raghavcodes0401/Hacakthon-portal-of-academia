@@ -1,0 +1,144 @@
+%PDF-1.4
+1 0 obj << /Type /Catalog /Pages 2 0 R >> endobj
+2 0 obj << /Type /Pages /Kids [3 0 R] /Count 1 >> endobj
+3 0 obj << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >> endobj
+4 0 obj << /Length 2052 >>
+stream
+BT
+/F1 18 Tf
+50 740 Td
+(Sub-Word Transformer Distillation for Multilingual Low-Resou) Tj
+ET
+BT
+/F1 18 Tf
+50 718 Td
+(rce NLP) Tj
+ET
+BT
+/F2 11 Tf
+50 685 Td
+(Authors: Sunita Verma, R. Deshmukh) Tj
+ET
+BT
+/F2 10 Tf
+50 668 Td
+(Publication: ACM Transactions on Asian and Low-Resource Language Information Processing, 2026) Tj
+ET
+50 655 m 550 655 l S
+BT
+/F1 12 Tf
+50 635 Td
+(ABSTRACT) Tj
+ET
+BT
+/F2 10 Tf
+50 615 Td
+(We demonstrate a novel knowledge distillation pipeline achieving 94% BERT performance) Tj
+ET
+BT
+/F2 10 Tf
+50 600 Td
+(with 65% fewer parameters across 14 Indic languages.) Tj
+ET
+BT
+/F1 12 Tf
+50 575 Td
+(1. INTRODUCTION) Tj
+ET
+BT
+/F2 9.5 Tf
+50 557 Td
+(Modern cloud-native systems and transformer architectures require stringent verification,) Tj
+ET
+BT
+/F2 9.5 Tf
+50 543 Td
+(fault isolation, and reproducible evaluation benchmarks across national computational) Tj
+ET
+BT
+/F2 9.5 Tf
+50 529 Td
+(grids.) Tj
+ET
+BT
+/F1 12 Tf
+50 507 Td
+(2. SYSTEM ARCHITECTURE & METHODOLOGY) Tj
+ET
+BT
+/F2 9.5 Tf
+50 489 Td
+(Our empirical evaluation framework deploys automated telemetry probes, tracking) Tj
+ET
+BT
+/F2 9.5 Tf
+50 475 Td
+(p99 request latencies, gradient throughput, and memory pressure during high concurrency) Tj
+ET
+BT
+/F2 9.5 Tf
+50 461 Td
+(stress testing.) Tj
+ET
+BT
+/F1 12 Tf
+50 439 Td
+(3. EXPERIMENTAL RESULTS) Tj
+ET
+BT
+/F2 9.5 Tf
+50 421 Td
+(Across 10,000 synthetic request iterations, our method demonstrated superior stability,) Tj
+ET
+BT
+/F2 9.5 Tf
+50 407 Td
+(achieving an overall 43 percent decrease in tail latency and 94 percent model fidelity) Tj
+ET
+BT
+/F2 9.5 Tf
+50 393 Td
+(on benchmark datasets.) Tj
+ET
+BT
+/F1 12 Tf
+50 371 Td
+(4. CONCLUSION & FUTURE WORK) Tj
+ET
+BT
+/F2 9.5 Tf
+50 353 Td
+(We established an open-source baseline for researchers across national academic) Tj
+ET
+BT
+/F2 9.5 Tf
+50 339 Td
+(institutions. Future extensions will incorporate federated edge telemetry and multi-modal) Tj
+ET
+BT
+/F2 9.5 Tf
+50 325 Td
+(distillation.) Tj
+ET
+BT
+/F2 8 Tf
+50 40 Td
+(SETU - National Academic & Research Digital Union Repository - Govt. of India) Tj
+ET
+endstream
+endobj
+5 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> endobj
+6 0 obj << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002355 00000 n 
+0000002430 00000 n 
+trailer << /Size 7 /Root 1 0 R >>
+startxref
+2500
+%%EOF

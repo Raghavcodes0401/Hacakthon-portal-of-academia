@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased font-sans;
+  }
+}
+
+.bg-maroon-gradient {
+  background: linear-gradient(135deg, #631024 0%, #801b33 50%, #4a0817 100%);
+}
+
+.bg-maroon-hero {
+  background: radial-gradient(circle at 10% 20%, #7d1933 0%, #520f20 45%, #340713 90%);
+}
+
+.bg-maroon-subtle {
+  background: linear-gradient(180deg, #fdf2f4 0%, #ffffff 100%);
+}
+
+.border-maroon-gold {
+  border-image: linear-gradient(to right, #801b33, #d97706, #801b33) 1;
+}
